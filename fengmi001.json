@@ -4,17 +4,6 @@
    {
     "spider": "http://8.210.232.168/fm/FM1226.jar",
     "wallpaper": "https://tool.weetai.cn/api",
-    "lives": [
-        {
-            "name": "live",
-            "url": "http://8.210.232.168/xclive.txt",
-            "type": 0,
-            "playerType": 1,
-            "ua": "okhttp/3.12.13",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ],
     "warningText": "玉玉软件：接口免费，每次打开记得长按主页刷新",
     "sites": [
      {"key":"csp_DouDou","name":"🅱「公众号（玉玉软件库）」ㅤ官网:yyrj.xyz","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},  
@@ -1844,4 +1833,15 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
+    "lives": [
+        {
+            "name": "live",
+            "url": "http://www.yayikejiao.top:38002/VVV/00tvbox.m3u",
+            "type": 0,
+            "playerType": 1,
+            "ua": "okhttp/3.12.13",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
 }
