@@ -8,7 +8,7 @@
     {
       "name": "肥猫",
       "type": 0,
-      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+      "url": "https://raw.gitmirror.com/soony520/tvlist/main/cctv.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
