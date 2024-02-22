@@ -1,7 +1,7 @@
 {
     "storeHouse": [
         {
-            "sourceName": "自建多仓",
+            "sourceName": "多仓测试",
             "sourceUrl": "http://www.yayikejiao.top:38002/VVV/ysc_vvv_duocang_test0102.json"
         }
     ]
