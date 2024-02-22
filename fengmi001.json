@@ -1836,7 +1836,7 @@
     "lives": [
         {
             "name": "live",
-            "url": "http://www.yayikejiao.top:38002/VVV/00tvbox.m3u",
+            "url": "https://raw.gitmirror.com/ssili126/tv/main/itvlist.txt",
             "type": 0,
             "playerType": 1,
             "ua": "okhttp/3.12.13",
